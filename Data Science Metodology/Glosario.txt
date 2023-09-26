@@ -6,43 +6,95 @@ Glosario de terminología de Data science:
     
     * Cohort: Grupo de personas que comparten una característica en común.
 
-    * Cohort study: Es un tipo de investigación observacional y analítica en la que se compara la frecuencia de aparición de un evento entre dos grupos, uno de los cuales está expuesto a un factor que no está presente en el otro grupo. En los estudios de cohortes perspectivos, los individuos seleccionados al inicio no tienen la enfermedad de interés y son seguidos durante un cierto periodos de tiempo para observar la frecuencia de la enfermedad en cada uno de los grupos. También se le llama estudios de seguimiento, de proyección o de incidencia
+    * Cohort study: Es un tipo de investigación observacional y analítica en la que se compara la frecuencia de aparición de un evento entre dos grupos, uno de los cuales está expuesto a un factor que no está presente en el otro grupo. En los estudios de cohortes perspectivos, los individuos seleccionados al inicio no tienen la enfermedad de interés y son seguidos durante un cierto periodos de tiempo para observar la frecuencia de la enfermedad en cada uno de los grupos. También se le llama estudios de seguimiento, de proyección o de incidencia.
 
     * Comorbidities: La "comorbilidad", también conocida como "morbilidad asociada", es un término utilizado para describir dos o mas trastornos o enfermedades que ocurren en la misma persona. pueden ocurrir al mismo tiempo o uno después del otro. 
     
-    * Congestive Heart failure (CHF): la insuficiencia cardíaca congestiva (CHF) es una afección en la que el músculo cardíaco no bombea una cantidad adecuada de sangre para que los órganos de su cuero funcionen normalmente. Esta condición puede deberse a que el ventrículo del corazón se ha debilitado y no puede bombear suficiente sangre. La CHF también puede hacer que sus riñones retengan liquido en lugar de expulsarlo adecuadamente lo que puede causar retención de líquidos en varias áreas del cuerpo. Esta condición es grave y, lamentablemente puede ser mortal
+    * Congestive Heart failure (CHF): la insuficiencia cardíaca congestiva (CHF) es una afección en la que el músculo cardíaco no bombea una cantidad adecuada de sangre para que los órganos de su cuero funcionen normalmente. Esta condición puede deberse a que el ventrículo del corazón se ha debilitado y no puede bombear suficiente sangre. La CHF también puede hacer que sus riñones retengan liquido en lugar de expulsarlo adecuadamente lo que puede causar retención de líquidos en varias áreas del cuerpo. Esta condición es grave y, lamentablemente puede ser mortal.
     
-    * CRISP-DM: La metodología CRISP.DM (Cross.industry Standard for Data Mining) es un enfoque ampliamente utilizado en proyectos de ciencia de datos. De considera la metodología de facto para extraer valor de los datos y ha sido fuente de inspiración par otros estándares y variantes CRISP-DM se conceptualiza en 6 fases, que incluyen el entendimiento del negocio, compresión de los datos, la preparación de los datos y el modelado de datos. Esta metodología proporciona un marco estructurado para guiar el proceso de análisis de datos y ayudar a los profesionales a planificar y ejecutar proyectos de ciencia de datos
+    * CRISP-DM: La metodología CRISP.DM (Cross.industry Standard for Data Mining) es un enfoque ampliamente utilizado en proyectos de ciencia de datos. De considera la metodología de facto para extraer valor de los datos y ha sido fuente de inspiración par otros estándares y variantes CRISP-DM se conceptualiza en 6 fases, que incluyen el entendimiento del negocio, compresión de los datos, la preparación de los datos y el modelado de datos. Esta metodología proporciona un marco estructurado para guiar el proceso de análisis de datos y ayudar a los profesionales a planificar y ejecutar proyectos de ciencia de datos.
 
-    * Data analysis:
-    * Data cleansing:
-    * Data science:
-    * Data scientist:
-    * Decision tree:
-    * Decision tree classification:
-    * Descriptive modeling:
-    * Descriptive statistics:
-    * Domain knowledge:
-    * Dominating decision rule:
-    * histogram:
-    * Hospital readmission:
-    * Iterative process > Iteration:
-    * Machine learning:
-    * Mean:
-    * Median:
-    * Methodology:
-    * Model > Conceptual model:
-    * Pairwise comparison (correlation):
-    * Patient cohort:
-    * Pattern:
-    * Predictive modeling:
-    * Predictors:
-    * ROC curve:
-    * Standard deviation:
-    * Statics:
-    * Structured data > Data model:
-    * Text analysis > Data mining:
-    * Training set:
-    * Univariate:
-    * Unstructured data:
-    * Visualization techniques:
+    * Data analysis: El análisis de datos e un proceso que implica la recopilación, transformación y organización de datos para sacar conclusiones, hacer predicciones y tomar decisiones con un conocimiento de causa. A través de análisis de datos, las empresas pueden estar mejor equipadas para tomar decisiones estratégicas y aumentar su volumen de negocios. El análisis de datos convierte datos sin procesar en información práctica y puede formar a procesos empresariales, mejorar la toma de decisiones e impulsar el crecimiento empresarial.
+    
+    * Data cleansing: La limpieza de datos es un proceso que implica la identificación y corrección de errores y/o inconsistencias en los datos. El objetivo de la limpieza de datos es mejorar la calidad de los datos, lo que a su vez mejora la calidad de los resultado obtenidos a partir de ellos. La limpieza de datos puede incluir la eliminación de valores atípicos y la normalización de los datos.
+
+    * Data science: La ciencia de datos es un campo interdisciplinario que involucra la extracción, análisis y visualización de datos par obtener información valiosa y conocimientos útiles. La ciencia de datos utiliza técnicas y herramientas de estadística, aprendizaje automático, minería de datos y visualización de datos par descubrir patrones y tendencias en los datos. El objetivo final es utilizar estos conocimientos par tomar decisiones informadas y resolve problemas complejos en una variedad de campos, desde la medicina hasta los negocios.
+    
+    * Data scientist: Un data scientist o científico de datos es un profesional que se encarga de trabajar gestionando información y realizando análisis de datos que les permiten obtener soluciones eficientes a problemas complejos. Estos profesionales utilizan tecnologías como el big data, la inteligencia artificial y el machine learning para analizar grandes volúmenes de datos y extraer conocimientos útiles par las empresas. El rol de un data scientist es de gran importancia en la actualidad debido a la gran cantidad de datos que manejan las empresas a través de una amplia variedad de canales. Algunas de las funciones que se desempeñan incluyen la recopilación y limpieza de datos, la transformación y análisis de datos, la identificación de tendencias y oportunidades en el mercado.
+    
+    * Decision tree: Un árbol de decisión es un tipo de algoritmo de aprendizaje supervisado que se utiliza comúnmente en el aprendizaje automático par modelar y predecir resultados basados en datos de entrada. Es una estructura similar a un árbol donde cada nodo interno prueba un atributo, cada rama corresponde a un valor de atributo y cada nodo hoja representa la decisión o predicción final. Los árboles de decisión se utilizan tanto para tareas de clasificación como de regresión.
+      Los árboles de decisión son populares porque son fáciles de entender e interpretar. Imitan el pensamiento humano creando una serie de decisiones secuenciales para llegar a un resultado específico. El análisis de árboles de decisión se puede utilizar en varios campos como negocios, atención medica, finanzas y más.
+  
+    * Decision tree classification: es un tipo de algoritmo de aprendizaje y supervisado que se utiliza principalmente en problemas de clasificación, aunque funciona para variables de entrada y salida categóricas como continuas.
+    En esta técnica, dividimos la información en dos o más conjuntos homogéneos basados en el diferenciador más significativos en las variables de entrada. El árbol de decisión identifica la variable más significativa y su valor que proporciona los mejores conjuntos homogéneos de población. Todas las variables de entrada y todos los puntos de división y todos los puntos de división posibles se evalúan y se elige la que tenga mejor resultado.
+      Los algoritmos de aprendizaje basados en árbol se consideran uno de los mejores y más utilizados métodos de aprendizaje supervisado. Los métodos basados en árboles potencian modelos predictivos con alta precisión, estabilidad y facilidad de interpretación. A diferencia de los modelos lineales, mapean bastante bien las relaciones no lineales.
+      https://www.flickr.com/photos/ligdieli/52329305783/
+
+      Ventajas:
+      Las ventajas que tiene este tipo de algoritmo son:
+      Fácil de entender. La salida del árbol de decisión es muy fácil de entender, incluso para personas con antecedentes no analíticos, no se requiere ningún conocimiento estadístico para leerlos e interpretarlos.
+
+      Útil en la exploración de datos. El árbol de decisión es una de las formas más rápidas para  identificar las variables más significativas y la relación entre dos o más. Con la ayuda de los árboles de decisión podemos crear nuevas variables o características que tengan mejor poder para predecir la variable objetivo.
+
+      Se requiere menos limpieza de datos. Requiere menos limpieza de datos en comparación a otras técnicas de modelado, Asu vez, no esta influenciado por los valores atípicos y faltantes en la data.
+
+      El tipo de datos no es un restricción. Puede manejar variables numéricas y categóricas.
+
+      Método no paramétrico. Es considerado un método no paramétrico, esto significa que los árboles de decisión no tienen suposiciones sobre la distribución del espacio y la estructura del clasificador
+
+      Desventajas:
+        Ya vista las ventajas, ahora se deben mencionar las desventajas que posee este algoritmo:
+
+        Sobreajuste. Es una de las dificultades más comunes que tiene este algoritmo, este problema se resuelve colocando restricciones en los parámetros del modelo y eliminando ramas en el análisis.
+
+        Los modelos basados en árboles no están diseñados para funcionar con características muy dispersas. Cuando se trata de datos de entrada dispersos (por ejemplo, características categóricas con una gran dimensión), podemos preprocesar las características dispersas para generar estadísticas numéricas, o cambiar a un modelo lineal, que es más adecuado para dichos escenarios
+    * Descriptive modeling: Modelado descriptivo se refiere a la creación de modelos que ayudan a entender y describir los datos, en lugar de predecir futuros resultados. Estos modelos suelen utilizarse para resumir y visualizar información de manera comprensible.
+
+    * Descriptive statistics: Estadísticas descriptivas se utilizan para resumir y describir características importantes de un conjunto de datos, como la media, la mediana, la desviación estándar y histograma
+
+    * Domain knowledge: Conocimientos del dominio se refiere a la comprensión profunda y específica de un campo o industria particular. Es esencial en Data Science para interpretar los resultado de análisis de datos en el contexto adecuado.
+    
+    * Dominating decision rule: Regla de decisión dominante es una regla que se aplica cuando deben tomar decisiones basadas en datos y que tiene prioridad sobre otras reglas o consideraciones.
+
+    * histogram: Un histograma es una representación gráfica de la distribución de datos numéricos. Muestra la frecuencia con la que aparecen diferentes valores en un conjunto de datos.
+
+    * Hospital readmission: Readmisión hospitalaria se refiere a cuando un paciente es dado de alta de un hospital y luego vuelve a ser admitido en el mismo hospital dentro de un periodo de tiempo especifico.
+
+    * Iterative process > Iteration: Un proceso iterativo implica la repetición de un conjunto de pasos o acciones con el fin de acercarse a un objetivo o resultado deseado. Cada repetición se llama "iteración".
+
+    * Machine learning: Aprendizaje automático es un subcampo de la ciencia de datos que se centra en el desarrollo de algoritmos y modelos que permiten a las computadoras aprender y tomar decisiones basadas en datos.
+    * Mean:  La media es el promedio aritmético de un conjunto de valores numéricos. Se calcula sumando todos los valores y dividiéndolos por el número total de valores.
+
+    * Median: La mediana es el valor medio de un conjunto de datos cuando los valores se ordenan en orden ascendente. Es el valor que divide el conjunto en dos partes iguales.
+
+    * Methodology: Metodología  se refiere al conjunto de métodos y enfoques utilizados en un proceso de investigación o análisis de datos.
+
+    * Model > Conceptual model: Modelo conceptual es una representación abstracta de un sistema o fenómeno que se utiliza para comprender su funcionamiento sin entrar en detalles técnicos.
+    
+    * Pairwise comparison (correlation): Comparación par a par (correlación) se refiere a la evaluación de la relación entre dos variables, determinando cómo una variable cambia en relación con la otra.
+
+    * Patient cohort: Cohorte de pacientes se refiere a un grupo de pacientes que comparten características o condiciones similares y se estudian como un conjunto.
+
+    * Pattern: Patrón se refiere a una tendencia o estructura reconocible en los datos que puede ser utilizada para tomar decisiones o hacer predicciones.
+
+    * Predictive modeling: Modelado predictivo se refiere a la creación de modelos que utilizan datos históricos para hacer predicciones sobre eventos futuros.
+    
+    * Predictors: Predictores son variables o características utilizadas en modelos predictivos para hacer predicciones sobre una variable objetivo.
+
+    * ROC curve: La curvaROC( Receive Operating Characteristic) es una gráfica que muestra el rendimiento de un modelo de clasificación en función de su capacidad para distinguir entre clases positivas y negativas.
+
+    * Standard deviation: La desviación estándar es una medida de dispersión que indica cuán dispersos están los valores en un conjunto de datos en relación con la media.
+
+    * Statics: Las estadísticas se refieren al campo de estudio se ocupa de la recopilación, análisis, interpretación y presentación de datos.
+
+    * Structured data > Data model: Datos estructurados se refieren a datos que se organizan en tablas o estructuras definidas. Un modelo de datos es una representación de cómo se almacenan y organizan los datos en un sistema.
+
+    * Text analysis > Data mining: El análisis de texto es el proceso de extracción de información valiosa a partir de texto no estructurado. la mine´ria de datos es el proceso de describir patrones y conocimientos en grandes conjuntos de datos.
+
+    * Training set: Conjunto de entrenamiento es un subconjunto de datos utilizado para entrenar un modelo de aprendizaje automático.
+
+    * Univariate: Análisis univariado se refiere al análisis de una sola variable en un conjunto de datos.
+
+    * Unstructured data: Datos no estructurados se refieren a datos que no están organizados en una forma predefinida, como texto no estructurado.
+
+    * Visualization techniques: Técnicas de visualización se refieren a métodos y herramientas utilizadas para representar gráficamente datos e información para facilitar la compresión.
