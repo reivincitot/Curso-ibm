@@ -1,11 +1,19 @@
 Glosario de terminología de Data science:
-    * Analytic approach:
-    * Analytics:
-    * Cohort:
-    * Cohort study:
-    * Comorbidities:
-    * Congestive Heart failure (CHF):
-    * CRISP-DM:
+    
+    * Analytic approach: Se refiere a la aplicación de técnicas y herramientas para analizar datos y extraer información valiosa. En este contexto, el enfoque analítico implica el uso de métodos estadísticos, algoritmos de aprendizaje automático y otras técnicas para comprender los datos y tomar decisiones basadas en ellos.
+    
+    * Analytics: El enfoque analítico en data science se refiere a la aplicación de técnicas y herramientas para analizar datos y extraer información valiosa. En este contexto, el enfoque analítico implica el uso de métodos estadísticos, algoritmos de aprendizaje automático y otras técnicas para comprender los datos y tomar decisiones basadas en ellos.
+    
+    * Cohort: Grupo de personas que comparten una característica en común.
+
+    * Cohort study: Es un tipo de investigación observacional y analítica en la que se compara la frecuencia de aparición de un evento entre dos grupos, uno de los cuales está expuesto a un factor que no está presente en el otro grupo. En los estudios de cohortes perspectivos, los individuos seleccionados al inicio no tienen la enfermedad de interés y son seguidos durante un cierto periodos de tiempo para observar la frecuencia de la enfermedad en cada uno de los grupos. También se le llama estudios de seguimiento, de proyección o de incidencia
+
+    * Comorbidities: La "comorbilidad", también conocida como "morbilidad asociada", es un término utilizado para describir dos o mas trastornos o enfermedades que ocurren en la misma persona. pueden ocurrir al mismo tiempo o uno después del otro. 
+    
+    * Congestive Heart failure (CHF): la insuficiencia cardíaca congestiva (CHF) es una afección en la que el músculo cardíaco no bombea una cantidad adecuada de sangre para que los órganos de su cuero funcionen normalmente. Esta condición puede deberse a que el ventrículo del corazón se ha debilitado y no puede bombear suficiente sangre. La CHF también puede hacer que sus riñones retengan liquido en lugar de expulsarlo adecuadamente lo que puede causar retención de líquidos en varias áreas del cuerpo. Esta condición es grave y, lamentablemente puede ser mortal
+    
+    * CRISP-DM: La metodología CRISP.DM (Cross.industry Standard for Data Mining) es un enfoque ampliamente utilizado en proyectos de ciencia de datos. De considera la metodología de facto para extraer valor de los datos y ha sido fuente de inspiración par otros estándares y variantes CRISP-DM se conceptualiza en 6 fases, que incluyen el entendimiento del negocio, compresión de los datos, la preparación de los datos y el modelado de datos. Esta metodología proporciona un marco estructurado para guiar el proceso de análisis de datos y ayudar a los profesionales a planificar y ejecutar proyectos de ciencia de datos
+
     * Data analysis:
     * Data cleansing:
     * Data science:
