@@ -1,0 +1,40 @@
+Glosario de terminología de Data science:
+    * Analytic approach:
+    * Analytics:
+    * Cohort:
+    * Cohort study:
+    * Comorbidities:
+    * Congestive Heart failure (CHF):
+    * CRISP-DM:
+    * Data analysis:
+    * Data cleansing:
+    * Data science:
+    * Data scientist:
+    * Decision tree:
+    * Decision tree classification:
+    * Descriptive modeling:
+    * Descriptive statistics:
+    * Domain knowledge:
+    * Dominating decision rule:
+    * histogram:
+    * Hospital readmission:
+    * Iterative process > Iteration:
+    * Machine learning:
+    * Mean:
+    * Median:
+    * Methodology:
+    * Model > Conceptual model:
+    * Pairwise comparison (correlation):
+    * Patient cohort:
+    * Pattern:
+    * Predictive modeling:
+    * Predictors:
+    * ROC curve:
+    * Standard deviation:
+    * Statics:
+    * Structured data > Data model:
+    * Text analysis > Data mining:
+    * Training set:
+    * Univariate:
+    * Unstructured data:
+    * Visualization techniques:
