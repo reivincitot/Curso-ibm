@@ -1,0 +1,65 @@
+Modulo 1: Del problema al Acercamiento
+    * Entendimiento del negocio - Conceptos y casos de estudio
+    * Acercamiento analítico - Conceptos y casos de estudio
+    * Hands-on lab y review
+
+Modulo 2: Desde el requerimiento a la recolección
+    * Necesidades de la información - Conceptos y casos de estudio
+    * Recolección de información - Conceptos y casos de estudio
+    * Hands-on lab y review
+
+Modulo 3: Desde el Entendimiento a la preparación
+    * Entendimiento de la información - Conceptos y casos de estudio
+    * Preparación de la información - Conceptos y casos de estudio
+    * Hands-on lab y review
+
+Modulo 4: Desde el modelaje a la evaluación
+    * Modelaje - Conceptos y casos de estudio
+    * Evaluación - Conceptos y casos de estudio
+    * Hand-on lab y review
+
+Modulo 5: Desde el despliegue a la retroalimentación
+    * Despliegue - Conceptos y casos de estudio
+    * Retroalimentación - Conceptos y casos de estudio
+    * Hand-on lab y review
+
+Glosario de terminología de Data science:
+    * Analytic approach:
+    * Analytics:
+    * Cohort:
+    * Cohort study:
+    * Comorbidities:
+    * Congestive Heart failure (CHF):
+    * CRISP-DM:
+    * Data analysis:
+    * Data cleansing:
+    * Data science:
+    * Data scientist:
+    * Decision tree:
+    * Decision tree classification:
+    * Descriptive modeling:
+    * Descriptive statistics:
+    * Domain knowledge:
+    * Dominating decision rule:
+    * histogram:
+    * Hospital readmission:
+    * Iterative process > Iteration:
+    * Machine learning:
+    * Mean:
+    * Median:
+    * Methodology:
+    * Model > Conceptual model:
+    * Pairwise comparison (correlation):
+    * Patient cohort:
+    * Pattern:
+    * Predictive modeling:
+    * Predictors:
+    * ROC curve:
+    * Standard deviation:
+    * Statics:
+    * Structured data > Data model:
+    * Text analysis > Data mining:
+    * Training set:
+    * Univariate:
+    * Unstructured data:
+    * Visualization techniques:

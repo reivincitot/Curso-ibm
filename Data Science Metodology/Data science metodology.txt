@@ -1,0 +1,17 @@
+Data science methodology apunta a responder las siguientes 10 preguntas en esta secuencia pre-descrita
+
+Acercamiento o encaramiento del problema:
+    1. Cual es el problema que estas intentando resolver
+    2. Como puedes usar la información para responder este problema
+
+Trabajando con la información:
+    3. Que información necesitas para responder la pregunta
+    4. De donde proviene la información (identificar todas las fuentes) y como la obtendrás
+    5. La información que recolectaste es representativa del problema a resolver
+    6. Que trabajo adicional es requerido para manipular y trabajar con la información
+
+Derivando la respuesta:
+    7. En que forma la información puede ser visualizada para obtener la respuesta requerida
+    8. El modelo usado puede realmente responder la pregunta inicial? o necesita ser ajustado?
+    9. Puedes poner el modelo en practica?
+    10. Pues obtener una retro alimentación constructiva respondiendo la pregunta?
