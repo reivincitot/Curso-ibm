@@ -6,10 +6,9 @@ pd.set_option('display.max_columns',None)
 
 download_recipes = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0103EN-SkillsNetwork/labs/Module%202/recipes.csv"
 
-download_recipes.to_csv("recipes.csv")
-recipes_df = 'E:/Curso-ibm/Data Science Metodology/recipes.csv'
+recipes_df = pd.read_csv(download_recipes)
 
-
+recipes_df.to_csv("recipes.csv", index=False)
 print(" Data read into dataframe!")
 
 x = recipes_df.head()
